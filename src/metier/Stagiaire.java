@@ -9,4 +9,5 @@ public class Stagiaire {
 		this.nom = nom;
 		this.prenom = prenom;
 	}
+	
 }
